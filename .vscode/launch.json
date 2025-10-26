@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Launch Godot (.NET)",
+      "type": "godot",
+      "request": "launch",
+      "mode": "executable",
+      "executable": "/absolute/path/to/Godot_v4.x.x-stable_mono_<your_os>",
+      "project": "${workspaceFolder}"
+    },
+    {
+      "name": "Attach to running Godot",
+      "type": "godot",
+      "request": "launch",
+      "mode": "remote",
+      "address": "127.0.0.1",
+      "port": 6007
+    }
+  ]
+}
