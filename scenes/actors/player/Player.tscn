@@ -1,6 +1,6 @@
 [gd_scene load_steps=30 format=3 uid="uid://bieoxmyywgtgh"]
 
-[ext_resource type="Script" uid="uid://dkxi4vn4qq6a7" path="res://scenes/actors/player/scripts/PlayerController.cs" id="1_dsx4b"]
+[ext_resource type="Script" uid="uid://wbb5kwylvkfn" path="res://scenes/actors/player/PlayerManager.cs" id="1_dsx4b"]
 [ext_resource type="Texture2D" uid="uid://cmvhltwqo160b" path="res://scenes/actors/player/assets/Small-8-Direction-Characters_by_AxulArt.png" id="1_iugxn"]
 [ext_resource type="Script" uid="uid://ueqf76xwehfj" path="res://scenes/actors/player/scripts/MovementController.cs" id="3_dsx4b"]
 
